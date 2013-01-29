@@ -1,0 +1,19 @@
+[
+	{ "keys": ["f5"], "command": "toggle_side_bar" },
+	{ "keys": ["f8"], "command": "toggle_tabs" },
+	{ "keys": ["f7"], "command": "toggle_status_bar" },
+	{ "keys": ["Alt+m"], "command": "toggle_minimap" },
+	{ "keys": ["Alt+f7"], "command": "toggle_menu" },
+	{ "keys": ["alt+h"], "command": "set_file_type", "args": { "syntax": "Packages/HTML/HTML.tmLanguage" }},
+	{ "keys": ["alt+p"], "command": "set_file_type", "args": { "syntax": "Packages/Python/Python.tmLanguage" }},
+	{ "keys": ["alt+j"], "command": "set_file_type", "args": { "syntax": "Packages/JavaScript/JavaScript.tmLanguage" }},
+	{ "keys": ["shift+alt+j"], "command": "set_file_type", "args": { "syntax": "Packages/JavaScript/JSON.tmLanguage" }},
+	{ "keys": ["shift+alt+p"], "command": "set_file_type", "args": { "syntax": "Packages/PHP/PHP.tmLanguage" }},
+	{ "keys": ["alt+c"], "command": "set_file_type", "args": { "syntax": "Packages/CSS/CSS.tmLanguage" }},
+	{ "keys": ["alt+s"], "command": "set_file_type", "args": { "syntax": "Packages/SCSS/SCSS.tmLanguage" }},
+	{ "keys": ["ctrl+alt+k"], "command": "upper_case" },
+	{ "keys": ["shift+alt+c"], "command": "toggle_setting", "args": { "setting": "draw_centered" }},
+	{ "keys": ["ctrl+shift+k"], "command": "lower_case" },
+	{ "keys": ["ctrl+alt+2"], "command": "fold_by_level", "args": {"level": 2} },
+	{ "keys": ["ctrl+alt+d"], "command": "find_all_under" }
+]

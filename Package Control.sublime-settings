@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"copy-file-name",
+		"Delphi Style Bookmarks",
+		"Expand Selection to Function (JavaScript)",
+		"Find Function Definiton",
+		"Git",
+		"HtmlTidy",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SublimeRope",
+		"Theme - Aqua",
+		"Theme - Nexus",
+		"Theme - Night",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
+	]
+}

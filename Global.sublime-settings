@@ -1,0 +1,12 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+	"theme": "Soda Dark.sublime-theme",
+	"new_window_settings":
+	{
+		"side_bar_visible": true,
+		"status_bar_visible": true,
+		"show_tabs": false,
+		"show_minimap": true
+	}
+}
