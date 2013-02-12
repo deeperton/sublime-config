@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Espresso Aqua.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -10,7 +10,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Nodejs"
+		"Nodejs",
+		"JSLint"
 	],
 	"new_window_settings":
 	{
@@ -25,6 +26,7 @@
 		100
 	],
 	"save_on_focus_lost": true,
-	"theme": "Nexus.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"theme": "AppKit.sublime-theme",
 	"word_wrap": false
 }
