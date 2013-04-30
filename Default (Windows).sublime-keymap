@@ -15,5 +15,6 @@
 	{ "keys": ["shift+alt+c"], "command": "toggle_setting", "args": { "setting": "draw_centered" }},
 	{ "keys": ["ctrl+shift+k"], "command": "lower_case" },
 	{ "keys": ["ctrl+alt+2"], "command": "fold_by_level", "args": {"level": 2} },
-	{ "keys": ["ctrl+alt+d"], "command": "find_all_under" }
+	{ "keys": ["ctrl+alt+d"], "command": "find_all_under" },
+	{ "keys": ["ctrl+alt+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@: function "} }
 ]
