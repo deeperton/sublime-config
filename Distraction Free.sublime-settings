@@ -2,8 +2,8 @@
 	"line_numbers": true,
 	"gutter": true,
 	"draw_centered": true,
-	"wrap_width": 80,
-	"word_wrap": false,
+	"wrap_width": 100,
+	"word_wrap": true,
 	"scroll_past_end": true,
 	"draw_indent_guides": true
 }

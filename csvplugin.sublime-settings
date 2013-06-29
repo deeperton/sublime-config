@@ -1,0 +1,9 @@
+{
+	"csv_per_file_setting":
+	[
+		{
+			"file": "E:\\temp\\database\\_users.csv",
+			"use_header": true
+		}
+	]
+}
