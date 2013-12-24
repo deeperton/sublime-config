@@ -1,9 +1,21 @@
 {
 	"auto_upgrade_last_run": null,
+	"git_binary": "E:\\Toxa\\bin\\msysgit\\bin\\git.exe",
 	"installed_packages":
 	[
-		"Abstract Markup Language",
-		"LinkOpener",
-		"Package Control"
+		"All Autocomplete",
+		"AngularJS",
+		"CodeFormatter",
+		"DocBlockr",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"Theme - Nexus",
+		"Theme - Sodarized",
+		"TypeScript",
+		"TypeScript Compiler",
+		"Wombat Theme"
 	]
 }
