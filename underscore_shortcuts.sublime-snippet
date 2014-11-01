@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+var _ = require( 'underscore' );
+    extend = _.extend,
+    forEach = each = _.each,
+    isString = _.isString,
+    isFunction = _.isFunction,
+    isObject = _.isObject,
+    isUndefined = _.isUndefined,
+    isBoolean = _.isBoolean,
+    isArray = _.isArray,
+    clone = _.clone,
+    map = _.map;
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>__underscore</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

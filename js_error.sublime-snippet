@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+function ${1}Error( message ){
+    this.name = "${1}Error";
+    this.message = message;
+};
+
+${1}Error.prototype = new ${2}Error();
+${1}Error.prototype.constructor = ${1}Error;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>MyError</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
